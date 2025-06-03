@@ -1,0 +1,462 @@
+{
+    "@@locale": "id",
+    "general": "Umum",
+    "@general": {
+        "description": "Judul bagian pengaturan umum"
+    },
+    "privacyPolicy": "Kebijakan Privasi",
+    "@privacyPolicy": {
+        "description": "Item menu kebijakan privasi"
+    },
+    "termOfService": "Syarat Layanan",
+    "@termOfService": {
+        "description": "Item menu syarat layanan"
+    },
+    "help": "Bantuan",
+    "@help": {
+        "description": "Item menu bantuan"
+    },
+    "changeLanguage": "Ubah Bahasa",
+    "@changeLanguage": {
+        "description": "Item menu ubah bahasa"
+    },
+    "selectLanguage": "Pilih Bahasa",
+    "@selectLanguage": {
+        "description": "Judul untuk dialog pemilihan bahasa"
+    },
+    "english": "English",
+    "@english": {
+        "description": "Opsi bahasa Inggris"
+    },
+    "indonesia": "Indonesia",
+    "@indonesia": {
+        "description": "Opsi bahasa Indonesia"
+    },
+    "changeTheme": "Ubah Tema",
+    "@changeTheme": {
+        "description": "Item menu ubah tema"
+    },
+    "language": "Bahasa",
+    "@language": {
+        "description": "Label bahasa"
+    },
+    "hello": "Halo",
+    "@hello": {
+        "description": "Sapaan halo"
+    },
+    "helloUser": "Halo Pengguna",
+    "@helloUser": {
+        "description": "Sapaan halo pengguna"
+    },
+    "username": "Nama Pengguna",
+    "@username": {
+        "description": "Placeholder teks nama pengguna"
+    },
+    "confirmSignOut": "Apakah Anda yakin ingin keluar?",
+    "@confirmSignOut": {
+        "description": "Pesan konfirmasi untuk keluar"
+    },
+    "signOutDescription": "Anda akan keluar dari akun ini, tetapi Anda dapat masuk lagi.",
+    "@signOutDescription": {
+        "description": "Deskripsi untuk tindakan keluar"
+    },
+    "cancel": "Batal",
+    "@cancel": {
+        "description": "Teks tombol batal"
+    },
+    "yes": "Ya",
+    "@yes": {
+        "description": "Teks tombol ya"
+    },
+    "transactions": "Transaksi",
+    "@transactions": {
+        "description": "Judul transaksi"
+    },
+    "noWalletsFound": "Tidak ada dompet ditemukan",
+    "@noWalletsFound": {
+        "description": "Pesan ketika tidak ada dompet tersedia"
+    },
+    "createWalletFirst": "Buat dompet terlebih dahulu untuk mulai bertransaksi",
+    "@createWalletFirst": {
+        "description": "Pesan yang meminta pengguna untuk membuat dompet"
+    },
+    "selectWallet": "Pilih Dompet",
+    "@selectWallet": {
+        "description": "Label dropdown pilih dompet"
+    },
+    "chooseWallet": "Pilih dompet...",
+    "@chooseWallet": {
+        "description": "Teks placeholder untuk pemilihan dompet"
+    },
+    "selectAWallet": "Pilih dompet",
+    "@selectAWallet": {
+        "description": "Instruksi untuk memilih dompet"
+    },
+    "newTransaction": "Transaksi Baru",
+    "@newTransaction": {
+        "description": "Teks tombol transaksi baru"
+    },
+    "deposit": "Setor",
+    "@deposit": {
+        "description": "Jenis transaksi setor"
+    },
+    "withdrawal": "Tarik",
+    "@withdrawal": {
+        "description": "Jenis transaksi tarik"
+    },
+    "depositMoney": "Setor Uang",
+    "@depositMoney": {
+        "description": "Judul halaman setor uang"
+    },
+    "withdrawMoney": "Tarik Uang",
+    "@withdrawMoney": {
+        "description": "Judul halaman tarik uang"
+    },
+    "addMoneyToWallet": "Tambahkan uang ke dompet Anda",
+    "@addMoneyToWallet": {
+        "description": "Deskripsi setor"
+    },
+    "withdrawMoneyFromWallet": "Tarik uang dari dompet Anda",
+    "@withdrawMoneyFromWallet": {
+        "description": "Deskripsi penarikan"
+    },
+    "transactionDetails": "Detail Transaksi",
+    "@transactionDetails": {
+        "description": "Judul halaman detail transaksi"
+    },
+    "transactionNotFound": "Transaksi tidak ditemukan",
+    "@transactionNotFound": {
+        "description": "Pesan error ketika transaksi tidak ditemukan"
+    },
+    "goBack": "Kembali",
+    "@goBack": {
+        "description": "Teks tombol kembali"
+    },
+    "walletDetails": "Detail Dompet",
+    "@walletDetails": {
+        "description": "Judul halaman detail dompet"
+    },
+    "walletNotFound": "Dompet tidak ditemukan",
+    "@walletNotFound": {
+        "description": "Pesan error ketika dompet tidak ditemukan"
+    },
+    "withdraw": "Tarik",
+    "@withdraw": {
+        "description": "Teks tombol tarik"
+    },
+    "viewTransactions": "Lihat Transaksi",
+    "@viewTransactions": {
+        "description": "Teks tombol lihat transaksi"
+    },
+    "failedToLoadTransactions": "Gagal memuat transaksi",
+    "@failedToLoadTransactions": {
+        "description": "Pesan error untuk gagal memuat transaksi"
+    },
+    "retry": "Coba Lagi",
+    "@retry": {
+        "description": "Teks tombol coba lagi"
+    },
+    "createWallet": "Buat Dompet",
+    "@createWallet": {
+        "description": "Teks tombol buat dompet"
+    },
+    "depositSuccessful": "Setor berhasil!",
+    "@depositSuccessful": {
+        "description": "Pesan sukses untuk setor"
+    },
+    "withdrawalSuccessful": "Penarikan berhasil!",
+    "@withdrawalSuccessful": {
+        "description": "Pesan sukses untuk penarikan"
+    },
+    "depositFunds": "Setor Dana",
+    "@depositFunds": {
+        "description": "Judul setor dana"
+    },
+    "withdrawFunds": "Tarik Dana",
+    "@withdrawFunds": {
+        "description": "Judul tarik dana"
+    },
+    "addMoneySecurely": "Tambahkan uang ke dompet Anda dengan aman dan cepat",
+    "@addMoneySecurely": {
+        "description": "Teks deskripsi setor"
+    },
+    "processingTransaction": "Memproses transaksi...",
+    "@processingTransaction": {
+        "description": "Pesan memproses transaksi"
+    },
+    "securityNote": "Catatan Keamanan",
+    "@securityNote": {
+        "description": "Judul catatan keamanan"
+    },
+    "depositSecurityNote": "Setoran Anda dilindungi dengan keamanan tingkat bank. Semua transaksi dienkripsi dan dipantau.",
+    "@depositSecurityNote": {
+        "description": "Catatan keamanan untuk setoran"
+    },
+    "withdrawalSecurityNote": "Penarikan diproses dengan aman. Pastikan Anda memiliki dana yang cukup sebelum melanjutkan.",
+    "@withdrawalSecurityNote": {
+        "description": "Catatan keamanan untuk penarikan"
+    },
+    "somethingWentWrong": "Terjadi kesalahan",
+    "@somethingWentWrong": {
+        "description": "Pesan error umum"
+    },
+    "loading": "Memuat...",
+    "@loading": {
+        "description": "Pesan memuat"
+    },
+    "manageDigitalWallets": "Kelola Dompet Digital",
+    "@manageDigitalWallets": {
+        "description": "Judul bagian kelola dompet digital"
+    },
+    "viewEditOrganizeWallets": "Lihat, edit, dan atur dompet Anda",
+    "@viewEditOrganizeWallets": {
+        "description": "Deskripsi untuk bagian manajemen dompet"
+    },
+    "pleaseEnterValidAmount": "Silakan masukkan jumlah yang valid",
+    "@pleaseEnterValidAmount": {
+        "description": "Pesan validasi untuk input jumlah yang tidak valid"
+    },
+    "transactionFailed": "Transaksi gagal",
+    "@transactionFailed": {
+        "description": "Pesan kegagalan transaksi umum"
+    },
+    "copiedToClipboard": "disalin ke clipboard",
+    "@copiedToClipboard": {
+        "description": "Pesan yang ditampilkan ketika teks disalin ke clipboard"
+    },
+    "created": "Dibuat",
+    "@created": {
+        "description": "Label untuk tanggal pembuatan"
+    },
+    "lastUpdated": "Terakhir Diperbarui",
+    "@lastUpdated": {
+        "description": "Label untuk tanggal pembaruan terakhir"
+    },
+    "currencies": "Mata Uang",
+    "@currencies": {
+        "description": "Label untuk dropdown mata uang"
+    },
+    "usdCurrency": "Dolar AS (USD)",
+    "@usdCurrency": {
+        "description": "Nama mata uang Dolar AS"
+    },
+    "eurCurrency": "Euro (EUR)",
+    "@eurCurrency": {
+        "description": "Nama mata uang Euro"
+    },
+    "gbpCurrency": "Pound Inggris (GBP)",
+    "@gbpCurrency": {
+        "description": "Nama mata uang Pound Inggris"
+    },
+    "jpyCurrency": "Yen Jepang (JPY)",
+    "@jpyCurrency": {
+        "description": "Nama mata uang Yen Jepang"
+    },
+    "idrCurrency": "Rupiah Indonesia (IDR)",
+    "@idrCurrency": {
+        "description": "Nama mata uang Rupiah Indonesia"
+    },
+    "@lastUpdated": {
+        "description": "Label untuk tanggal pembaruan terakhir"
+    },
+    "createNewWallet": "Buat Dompet Baru",
+    "@createNewWallet": {
+        "description": "Judul untuk bagian buat dompet baru"
+    },
+    "currency": "Mata Uang",
+    "@currency": {
+        "description": "Label field mata uang"
+    },
+    "initialBalanceOptional": "Saldo Awal (Opsional)",
+    "@initialBalanceOptional": {
+        "description": "Label field saldo awal"
+    },
+    "walletInformation": "Informasi Dompet",
+    "@walletInformation": {
+        "description": "Judul bagian informasi dompet"
+    },
+    "walletId": "ID Dompet",
+    "@walletId": {
+        "description": "Label field ID dompet"
+    },
+    "balance": "Saldo",
+    "@balance": {
+        "description": "Label field saldo"
+    },
+    "created": "Dibuat",
+    "@created": {
+        "description": "Label field tanggal dibuat"
+    },
+    "lastUpdated": "Terakhir Diperbarui",
+    "@lastUpdated": {
+        "description": "Label field terakhir diperbarui"
+    },
+    "transactionId": "ID Transaksi",
+    "@transactionId": {
+        "description": "Label field ID transaksi"
+    },
+    "yourWallets": "Dompet Anda",
+    "@yourWallets": {
+        "description": "Judul bagian untuk daftar dompet pengguna"
+    },
+    "noWalletsYet": "Belum ada dompet",
+    "@noWalletsYet": {
+        "description": "Pesan yang ditampilkan ketika pengguna belum memiliki dompet"
+    },
+    "createFirstWalletToGetStarted": "Buat dompet pertama Anda untuk memulai",
+    "@createFirstWalletToGetStarted": {
+        "description": "Pesan yang mendorong pengguna untuk membuat dompet pertama mereka"
+    },
+    "noTransactionsYet": "Belum ada transaksi",
+    "@noTransactionsYet": {
+        "description": "Pesan yang ditampilkan ketika dompet belum memiliki transaksi"
+    },
+    "transactionsWillAppearHere": "Transaksi Anda akan muncul di sini",
+    "@transactionsWillAppearHere": {
+        "description": "Pesan yang menunjukkan di mana transaksi akan ditampilkan"
+    },
+    "refresh": "Segarkan",
+    "@refresh": {
+        "description": "Teks tombol penyegaran"
+    },
+    "transaction": "Transaksi",
+    "@transaction": {
+        "description": "Label untuk transaksi"
+    },
+    "errorRenderingTransactionDetails": "Error menampilkan detail transaksi",
+    "@errorRenderingTransactionDetails": {
+        "description": "Pesan kesalahan yang ditampilkan ketika detail transaksi tidak dapat ditampilkan"
+    },
+    "amount": "Jumlah",
+    "@amount": {
+        "description": "Label field jumlah"
+    },
+    "enterAmount": "Masukkan jumlah",
+    "@enterAmount": {
+        "description": "Teks placeholder untuk field input jumlah"
+    },
+    "pleaseEnterAmount": "Silakan masukkan jumlah",
+    "@pleaseEnterAmount": {
+        "description": "Pesan validasi untuk input jumlah yang kosong"
+    },
+    "descriptionOptional": "Deskripsi (Opsional)",
+    "@descriptionOptional": {
+        "description": "Label field deskripsi"
+    },
+    "enterDescription": "Masukkan deskripsi",
+    "@enterDescription": {
+        "description": "Teks placeholder untuk field input deskripsi"
+    },
+    "referenceIdOptional": "ID Referensi (Opsional)",
+    "@referenceIdOptional": {
+        "description": "Label field ID referensi"
+    },
+    "enterReferenceId": "Masukkan ID referensi",
+    "@enterReferenceId": {
+        "description": "Teks placeholder untuk field input ID referensi"
+    },
+    "description": "Deskripsi",
+    "@description": {
+        "description": "Label field deskripsi"
+    },
+    "referenceId": "ID Referensi",
+    "@referenceId": {
+        "description": "Label field ID referensi"
+    },
+    "createdAt": "Dibuat Pada",
+    "@createdAt": {
+        "description": "Label field waktu dibuat"
+    },
+    "updatedAt": "Diperbarui Pada",
+    "@updatedAt": {
+        "description": "Label field waktu diperbarui"
+    },
+    "walletId": "ID Dompet",
+    "@walletId": {
+        "description": "Label field ID dompet"
+    },
+    "wallet": "Dompet",
+    "@wallet": {
+        "description": "Label navigasi dompet"
+    },
+    "settings": "Pengaturan",
+    "@settings": {
+        "description": "Label navigasi pengaturan"
+    },
+    "login": "Masuk",
+    "@login": {
+        "description": "Judul halaman login"
+    },
+    "signInToContinue": "Masuk untuk melanjutkan",
+    "@signInToContinue": {
+        "description": "Subjudul halaman login"
+    },
+    "dontHaveAccount": "Belum punya akun?",
+    "@dontHaveAccount": {
+        "description": "Teks untuk pengguna yang belum memiliki akun"
+    },
+    "signUp": "Daftar",
+    "@signUp": {
+        "description": "Teks daftar untuk link registrasi"
+    },
+    "alreadyHaveAccount": "Sudah punya akun?",
+    "@alreadyHaveAccount": {
+        "description": "Teks untuk pengguna yang sudah memiliki akun"
+    },
+    "signIn": "Masuk",
+    "@signIn": {
+        "description": "Teks masuk untuk link login"
+    },
+    "registerAndHappyShopping": "Daftar dan belanja dengan senang",
+    "@registerAndHappyShopping": {
+        "description": "Subjudul halaman pendaftaran"
+    },
+    "fullNameOptional": "Nama Lengkap (Opsional)",
+    "@fullNameOptional": {
+        "description": "Label field nama lengkap opsional"
+    },
+    "yourFullName": "Nama lengkap Anda",
+    "@yourFullName": {
+        "description": "Teks hint untuk input nama lengkap"
+    },
+    "pleaseEnterValidName": "Silakan masukkan nama yang valid",
+    "@pleaseEnterValidName": {
+        "description": "Pesan error untuk nama tidak valid"
+    },
+    "emailAddress": "Alamat Email",
+    "@emailAddress": {
+        "description": "Label field alamat email"
+    },
+    "yourEmailAddress": "Alamat email Anda",
+    "@yourEmailAddress": {
+        "description": "Teks hint untuk input alamat email"
+    },
+    "pleaseEnterValidEmail": "Silakan masukkan email yang valid",
+    "@pleaseEnterValidEmail": {
+        "description": "Pesan error untuk email tidak valid"
+    },
+    "password": "Kata Sandi",
+    "@password": {
+        "description": "Label field kata sandi"
+    },
+    "yourPasswordMinChars": "Kata sandi Anda (min. 8 karakter)",
+    "@yourPasswordMinChars": {
+        "description": "Teks hint untuk input kata sandi"
+    },
+    "passwordMinCharsError": "Kata sandi harus minimal 8 karakter",
+    "@passwordMinCharsError": {
+        "description": "Pesan error untuk panjang minimum kata sandi"
+    },
+    "registrationSuccessful": "Pendaftaran berhasil!",
+    "@registrationSuccessful": {
+        "description": "Pesan yang ditampilkan saat pendaftaran berhasil"
+    },
+    "yourPassword": "Kata sandi Anda",
+    "@yourPassword": {
+        "description": "Teks hint untuk input kata sandi di form login"
+    },
+    "passwordMinLength": "Kata sandi harus minimal 6 karakter",
+    "@passwordMinLength": {
+        "description": "Pesan error untuk panjang minimum kata sandi di form login"
+    }
+}

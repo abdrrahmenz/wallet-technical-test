@@ -1,0 +1,462 @@
+{
+    "@@locale": "en",
+    "general": "General",
+    "@general": {
+        "description": "General settings section title"
+    },
+    "privacyPolicy": "Privacy & Policy",
+    "@privacyPolicy": {
+        "description": "Privacy policy menu item"
+    },
+    "termOfService": "Term of Service",
+    "@termOfService": {
+        "description": "Terms of service menu item"
+    },
+    "help": "Help",
+    "@help": {
+        "description": "Help menu item"
+    },
+    "changeLanguage": "Change Language",
+    "@changeLanguage": {
+        "description": "Change language menu item"
+    },
+    "selectLanguage": "Select Language",
+    "@selectLanguage": {
+        "description": "Title for language selection dialog"
+    },
+    "english": "English",
+    "@english": {
+        "description": "English language option"
+    },
+    "indonesia": "Indonesia",
+    "@indonesia": {
+        "description": "Indonesian language option"
+    },
+    "changeTheme": "Change Theme",
+    "@changeTheme": {
+        "description": "Change theme menu item"
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Language label"
+    },
+    "hello": "Hello",
+    "@hello": {
+        "description": "Hello greeting"
+    },
+    "helloUser": "Hello User",
+    "@helloUser": {
+        "description": "Hello user greeting"
+    },
+    "username": "Username",
+    "@username": {
+        "description": "Username placeholder text"
+    },
+    "confirmSignOut": "Are you sure you want to sign out?",
+    "@confirmSignOut": {
+        "description": "Confirmation message for sign out"
+    },
+    "signOutDescription": "You will be logged out of this account, but you can login again.",
+    "@signOutDescription": {
+        "description": "Description for sign out action"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Cancel button text"
+    },
+    "yes": "Yes",
+    "@yes": {
+        "description": "Yes button text"
+    },
+    "transactions": "Transactions",
+    "@transactions": {
+        "description": "Transactions title"
+    },
+    "noWalletsFound": "No wallets found",
+    "@noWalletsFound": {
+        "description": "Message when no wallets are available"
+    },
+    "createWalletFirst": "Create a wallet first to start making transactions",
+    "@createWalletFirst": {
+        "description": "Message prompting user to create a wallet"
+    },
+    "selectWallet": "Select Wallet",
+    "@selectWallet": {
+        "description": "Select wallet dropdown label"
+    },
+    "chooseWallet": "Choose a wallet...",
+    "@chooseWallet": {
+        "description": "Placeholder text for wallet selection"
+    },
+    "selectAWallet": "Select a wallet",
+    "@selectAWallet": {
+        "description": "Instruction to select a wallet"
+    },
+    "newTransaction": "New Transaction",
+    "@newTransaction": {
+        "description": "New transaction button text"
+    },
+    "deposit": "Deposit",
+    "@deposit": {
+        "description": "Deposit transaction type"
+    },
+    "withdrawal": "Withdrawal",
+    "@withdrawal": {
+        "description": "Withdrawal transaction type"
+    },
+    "depositMoney": "Deposit Money",
+    "@depositMoney": {
+        "description": "Deposit money page title"
+    },
+    "withdrawMoney": "Withdraw Money",
+    "@withdrawMoney": {
+        "description": "Withdraw money page title"
+    },
+    "addMoneyToWallet": "Add money to your wallet",
+    "@addMoneyToWallet": {
+        "description": "Deposit description"
+    },
+    "withdrawMoneyFromWallet": "Withdraw money from your wallet",
+    "@withdrawMoneyFromWallet": {
+        "description": "Withdrawal description"
+    },
+    "transactionDetails": "Transaction Details",
+    "@transactionDetails": {
+        "description": "Transaction details page title"
+    },
+    "transactionNotFound": "Transaction not found",
+    "@transactionNotFound": {
+        "description": "Error message when transaction is not found"
+    },
+    "goBack": "Go Back",
+    "@goBack": {
+        "description": "Go back button text"
+    },
+    "walletDetails": "Wallet Details",
+    "@walletDetails": {
+        "description": "Wallet details page title"
+    },
+    "walletNotFound": "Wallet not found",
+    "@walletNotFound": {
+        "description": "Error message when wallet is not found"
+    },
+    "withdraw": "Withdraw",
+    "@withdraw": {
+        "description": "Withdraw button text"
+    },
+    "viewTransactions": "View Transactions",
+    "@viewTransactions": {
+        "description": "View transactions button text"
+    },
+    "failedToLoadTransactions": "Failed to load transactions",
+    "@failedToLoadTransactions": {
+        "description": "Error message for failed transaction loading"
+    },
+    "retry": "Retry",
+    "@retry": {
+        "description": "Retry button text"
+    },
+    "createWallet": "Create Wallet",
+    "@createWallet": {
+        "description": "Create wallet button text"
+    },
+    "depositSuccessful": "Deposit successful!",
+    "@depositSuccessful": {
+        "description": "Success message for deposit"
+    },
+    "withdrawalSuccessful": "Withdrawal successful!",
+    "@withdrawalSuccessful": {
+        "description": "Success message for withdrawal"
+    },
+    "depositFunds": "Deposit Funds",
+    "@depositFunds": {
+        "description": "Deposit funds heading"
+    },
+    "withdrawFunds": "Withdraw Funds",
+    "@withdrawFunds": {
+        "description": "Withdraw funds heading"
+    },
+    "addMoneySecurely": "Add money to your wallet securely and instantly",
+    "@addMoneySecurely": {
+        "description": "Deposit description text"
+    },
+    "processingTransaction": "Processing transaction...",
+    "@processingTransaction": {
+        "description": "Processing transaction message"
+    },
+    "securityNote": "Security Note",
+    "@securityNote": {
+        "description": "Security note heading"
+    },
+    "depositSecurityNote": "Your deposits are protected with bank-level security. All transactions are encrypted and monitored.",
+    "@depositSecurityNote": {
+        "description": "Security note for deposits"
+    },
+    "withdrawalSecurityNote": "Withdrawals are processed securely. Please ensure you have sufficient funds before proceeding.",
+    "@withdrawalSecurityNote": {
+        "description": "Security note for withdrawals"
+    },
+    "somethingWentWrong": "Something went wrong",
+    "@somethingWentWrong": {
+        "description": "Generic error message"
+    },
+    "loading": "Loading...",
+    "@loading": {
+        "description": "Loading message"
+    },
+    "manageDigitalWallets": "Manage Digital Wallets",
+    "@manageDigitalWallets": {
+        "description": "Manage digital wallets section title"
+    },
+    "viewEditOrganizeWallets": "View, edit, and organize your wallets",
+    "@viewEditOrganizeWallets": {
+        "description": "Description for wallet management section"
+    },
+    "pleaseEnterValidAmount": "Please enter a valid amount",
+    "@pleaseEnterValidAmount": {
+        "description": "Validation message for invalid amount input"
+    },
+    "transactionFailed": "Transaction failed",
+    "@transactionFailed": {
+        "description": "Generic transaction failure message"
+    },
+    "copiedToClipboard": "copied to clipboard",
+    "@copiedToClipboard": {
+        "description": "Message shown when text is copied to clipboard"
+    },
+    "created": "Created",
+    "@created": {
+        "description": "Label for creation date"
+    },
+    "lastUpdated": "Last Updated",
+    "@lastUpdated": {
+        "description": "Label for last update date"
+    },
+    "currencies": "Currencies",
+    "@currencies": {
+        "description": "Label for currencies dropdown"
+    },
+    "usdCurrency": "US Dollar (USD)",
+    "@usdCurrency": {
+        "description": "US Dollar currency name"
+    },
+    "eurCurrency": "Euro (EUR)",
+    "@eurCurrency": {
+        "description": "Euro currency name"
+    },
+    "gbpCurrency": "British Pound (GBP)",
+    "@gbpCurrency": {
+        "description": "British Pound currency name"
+    },
+    "jpyCurrency": "Japanese Yen (JPY)",
+    "@jpyCurrency": {
+        "description": "Japanese Yen currency name"
+    },
+    "idrCurrency": "Indonesian Rupiah (IDR)",
+    "@idrCurrency": {
+        "description": "Indonesian Rupiah currency name"
+    },
+    "@lastUpdated": {
+        "description": "Label for last update date"
+    },
+    "createNewWallet": "Create New Wallet",
+    "@createNewWallet": {
+        "description": "Title for create new wallet section"
+    },
+    "currency": "Currency",
+    "@currency": {
+        "description": "Currency field label"
+    },
+    "initialBalanceOptional": "Initial Balance (Optional)",
+    "@initialBalanceOptional": {
+        "description": "Initial balance field label"
+    },
+    "walletInformation": "Wallet Information",
+    "@walletInformation": {
+        "description": "Wallet information section title"
+    },
+    "walletId": "Wallet ID",
+    "@walletId": {
+        "description": "Wallet ID field label"
+    },
+    "balance": "Balance",
+    "@balance": {
+        "description": "Balance field label"
+    },
+    "created": "Created",
+    "@created": {
+        "description": "Created date field label"
+    },
+    "lastUpdated": "Last Updated",
+    "@lastUpdated": {
+        "description": "Last updated field label"
+    },
+    "transactionId": "Transaction ID",
+    "@transactionId": {
+        "description": "Transaction ID field label"
+    },
+    "yourWallets": "Your Wallets",
+    "@yourWallets": {
+        "description": "Section title for user's wallets list"
+    },
+    "noWalletsYet": "No wallets yet",
+    "@noWalletsYet": {
+        "description": "Message shown when user has no wallets"
+    },
+    "createFirstWalletToGetStarted": "Create your first wallet to get started",
+    "@createFirstWalletToGetStarted": {
+        "description": "Message prompting user to create their first wallet"
+    },
+    "noTransactionsYet": "No transactions yet",
+    "@noTransactionsYet": {
+        "description": "Message shown when wallet has no transactions"
+    },
+    "transactionsWillAppearHere": "Your transactions will appear here",
+    "@transactionsWillAppearHere": {
+        "description": "Message indicating where transactions will be displayed"
+    },
+    "refresh": "Refresh",
+    "@refresh": {
+        "description": "Refresh button text"
+    },
+    "transaction": "Transaction",
+    "@transaction": {
+        "description": "Label for a transaction"
+    },
+    "errorRenderingTransactionDetails": "Error displaying transaction details",
+    "@errorRenderingTransactionDetails": {
+        "description": "Error message shown when transaction details cannot be displayed"
+    },
+    "amount": "Amount",
+    "@amount": {
+        "description": "Amount field label"
+    },
+    "enterAmount": "Enter amount",
+    "@enterAmount": {
+        "description": "Placeholder text for amount input field"
+    },
+    "pleaseEnterAmount": "Please enter an amount",
+    "@pleaseEnterAmount": {
+        "description": "Validation message for empty amount input"
+    },
+    "descriptionOptional": "Description (Optional)",
+    "@descriptionOptional": {
+        "description": "Description field label"
+    },
+    "enterDescription": "Enter description",
+    "@enterDescription": {
+        "description": "Placeholder text for description input field"
+    },
+    "referenceIdOptional": "Reference ID (Optional)",
+    "@referenceIdOptional": {
+        "description": "Reference ID field label"
+    },
+    "enterReferenceId": "Enter reference ID",
+    "@enterReferenceId": {
+        "description": "Placeholder text for reference ID input field"
+    },
+    "description": "Description",
+    "@description": {
+        "description": "Description field label"
+    },
+    "referenceId": "Reference ID",
+    "@referenceId": {
+        "description": "Reference ID field label"
+    },
+    "createdAt": "Created At",
+    "@createdAt": {
+        "description": "Created At field label"
+    },
+    "updatedAt": "Updated At",
+    "@updatedAt": {
+        "description": "Updated At field label"
+    },
+    "walletId": "Wallet ID",
+    "@walletId": {
+        "description": "Wallet ID field label"
+    },
+    "wallet": "Wallet",
+    "@wallet": {
+        "description": "Wallet navigation label"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Settings navigation label"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Login page title"
+    },
+    "signInToContinue": "Sign in to continue",
+    "@signInToContinue": {
+        "description": "Login page subtitle"
+    },
+    "dontHaveAccount": "Don't have an account?",
+    "@dontHaveAccount": {
+        "description": "Text shown for users without an account"
+    },
+    "signUp": "Sign Up",
+    "@signUp": {
+        "description": "Sign up text for registration link"
+    },
+    "alreadyHaveAccount": "Already have an account?",
+    "@alreadyHaveAccount": {
+        "description": "Text shown for users with an existing account"
+    },
+    "signIn": "Sign In",
+    "@signIn": {
+        "description": "Sign in text for login link"
+    },
+    "registerAndHappyShopping": "Register and happy shopping",
+    "@registerAndHappyShopping": {
+        "description": "Register page subtitle"
+    },
+    "fullNameOptional": "Full Name (Optional)",
+    "@fullNameOptional": {
+        "description": "Optional full name field label"
+    },
+    "yourFullName": "Your full name",
+    "@yourFullName": {
+        "description": "Hint text for full name input"
+    },
+    "pleaseEnterValidName": "Please enter a valid name",
+    "@pleaseEnterValidName": {
+        "description": "Error message for invalid name"
+    },
+    "emailAddress": "Email Address",
+    "@emailAddress": {
+        "description": "Email address field label"
+    },
+    "yourEmailAddress": "Your email address",
+    "@yourEmailAddress": {
+        "description": "Hint text for email address input"
+    },
+    "pleaseEnterValidEmail": "Please enter a valid email",
+    "@pleaseEnterValidEmail": {
+        "description": "Error message for invalid email"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Password field label"
+    },
+    "yourPasswordMinChars": "Your password (min. 8 characters)",
+    "@yourPasswordMinChars": {
+        "description": "Hint text for password input"
+    },
+    "passwordMinCharsError": "Password must be at least 8 characters",
+    "@passwordMinCharsError": {
+        "description": "Error message for password minimum length"
+    },
+    "registrationSuccessful": "Registration successful!",
+    "@registrationSuccessful": {
+        "description": "Message shown when registration is successful"
+    },
+    "yourPassword": "Your password",
+    "@yourPassword": {
+        "description": "Hint text for password input in login form"
+    },
+    "passwordMinLength": "Password must be at least 6 characters",
+    "@passwordMinLength": {
+        "description": "Error message for password minimum length in login form"
+    }
+}

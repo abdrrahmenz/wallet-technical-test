@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "wallet_test (dev)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_dev.dart",
+            "args": [
+                "--flavor",
+                "dev"
+            ]
+        },
+        {
+            "name": "wallet_test (prod)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_prod.dart",
+            "args": [
+                "--flavor",
+                "prod"
+            ]
+        },
+        {
+            "name": "wallet_test (stag)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_stag.dart",
+            "args": [
+                "--flavor",
+                "stag"
+            ]
+        }
+    ]
+}
