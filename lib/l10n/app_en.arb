@@ -455,7 +455,7 @@
     "@yourPassword": {
         "description": "Hint text for password input in login form"
     },
-    "passwordMinLength": "Password must be at least 6 characters",
+    "passwordMinLength": "Password must be at least 8 characters",
     "@passwordMinLength": {
         "description": "Error message for password minimum length in login form"
     }

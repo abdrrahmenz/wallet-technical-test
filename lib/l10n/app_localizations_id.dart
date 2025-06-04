@@ -339,5 +339,5 @@ class AppLocalizationsId extends AppLocalizations {
   String get yourPassword => 'Kata sandi Anda';
 
   @override
-  String get passwordMinLength => 'Kata sandi harus minimal 6 karakter';
+  String get passwordMinLength => 'Kata sandi harus minimal 8 karakter';
 }

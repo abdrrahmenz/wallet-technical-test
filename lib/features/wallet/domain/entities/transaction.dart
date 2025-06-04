@@ -5,12 +5,6 @@ enum TransactionType {
   withdrawal,
 }
 
-enum TransactionStatus {
-  pending,
-  completed,
-  failed,
-}
-
 class Transaction extends Equatable {
   final String id;
   final String walletId;

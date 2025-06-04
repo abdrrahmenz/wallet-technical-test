@@ -455,7 +455,7 @@
     "@yourPassword": {
         "description": "Teks hint untuk input kata sandi di form login"
     },
-    "passwordMinLength": "Kata sandi harus minimal 6 karakter",
+    "passwordMinLength": "Kata sandi harus minimal 8 karakter",
     "@passwordMinLength": {
         "description": "Pesan error untuk panjang minimum kata sandi di form login"
     }
